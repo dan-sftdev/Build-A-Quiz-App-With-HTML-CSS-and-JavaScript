@@ -1,0 +1,28 @@
+{
+  "name": "build-a-quiz-app-with-html-css-and-javascript",
+  "version": "1.0.0",
+  "description": "![Home Screen](./images/cover.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-sftdev/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-sftdev/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/issues"
+  },
+  "homepage": "https://github.com/dan-sftdev/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
